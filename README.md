@@ -1,0 +1,2 @@
+# qbot
+Like node js
